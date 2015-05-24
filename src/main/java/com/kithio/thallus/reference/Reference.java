@@ -7,7 +7,7 @@ public class Reference
 
     public static final String MOD_NAME = "Thallus";
 
-    public static final String VERSION = "1.7.10-1.0";
+    public static final String VERSION = "@MOD_VERSION@";
 
     public static final String MOD_AUTHOR = "Kithio";
 
