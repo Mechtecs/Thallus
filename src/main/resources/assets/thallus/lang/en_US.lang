@@ -1,0 +1,38 @@
+# Achievement Localizations
+
+# Achievement Description Localizations
+
+# Config Localizations
+config.thallus:achievementConfig=Achievements
+config.thallus:blockConfig=Blocks
+config.thallus:debugConfig=Debug
+config.thallus:guiConfig=GUI
+config.thallus:itemConfig=Items
+config.thallus:miscellaneousConfig=Miscellaneous
+config.thallus:soundConfig=Audio
+config.thallus:worldConfig=World
+
+# Config Tooltip Localizations
+config.thallus:achievementConfig.tooltip=Achievement Settings
+config.thallus:blockConfig.tooltip=Block Settings
+config.thallus:debugConfig.tooltip=Debug Settings
+config.thallus:guiConfig.tooltip=GUI Settings
+config.thallus:itemConfig.tooltip=Item Settings
+config.thallus:miscellaneousConfig.tooltip=Miscellaneous Settings
+config.thallus:soundConfig.tooltip=Sound Settings
+config.thallus:worldConfig.tooltip=World Settings
+
+# Config Element Localizations
+
+# Creative Tab Localizations
+itemGroup.thallus:blocks=Thallus - Blocks
+itemGroup.thallus:items=Thallus - Items
+
+# GUI Localizations
+
+# Block Localizations
+
+# Item Localizations
+
+# Key Localizations
+keys.thallus:category=Thallus
