@@ -1,10 +1,10 @@
 # Thallus
-Current Release : None
-Current Version : 0.1a
+* Current Release : None
+* Current Version : 0.1a
 
 ## Requirements
-Minecraft - 1.7.10
-Forge - 10.13.3.1408 (or higher) - 1.7.10
+* Minecraft - 1.7.10
+* Forge - 10.13.3.1408 (or higher) - 1.7.10
 
 ## Reporting an Issue
 When reporting an issue there's a few key things that should be included in the report.
