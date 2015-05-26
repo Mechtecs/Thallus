@@ -1,0 +1,38 @@
+# Achievement Localizations
+# de_DE.lang maintained by Zelenka
+# Achievement Description Localizations
+
+# Config Localizations
+config.thallus:achievementConfig=Achievments
+config.thallus:blockConfig=Blöcke
+config.thallus:debugConfig=Debug
+config.thallus:guiConfig=GUI
+config.thallus:itemConfig=Items
+config.thallus:miscellaneousConfig=Sonstiges
+config.thallus:soundConfig=Sound
+config.thallus:worldConfig=Welt
+
+# Config Tooltip Localizations
+config.thallus:achievementConfig.tooltip=Achievement Einstellungen
+config.thallus:blockConfig.tooltip=Block Einstellungen
+config.thallus:debugConfig.tooltip=Debug Einstellungen
+config.thallus:guiConfig.tooltip=GUI Einstellungen
+config.thallus:itemConfig.tooltip=Item Einstellungen
+config.thallus:miscellaneousConfig.tooltip=Sonstige Einstellungen
+config.thallus:soundConfig.tooltip=Sound Einstellungen
+config.thallus:worldConfig.tooltip=Welt Einstellungen
+
+# Config Element Localizations
+
+# Creative Tab Localizations
+itemGroup.thallus:blocks=Thallus - Blöcke
+itemGroup.thallus:items=Thallus - Items
+
+# GUI Localizations
+
+# Block Localizations
+
+# Item Localizations
+
+# Key Localizations
+keys.thallus:category=Thallus
